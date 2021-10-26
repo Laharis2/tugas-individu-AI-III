@@ -7,4 +7,5 @@
 3. arti dari ==> print("Hello World")?
     menampilkan kata "Hello World" pada perangkat keluaran (layar) atau ke file teks
 4.  menjalankan python pada VS-Code dan CMD?
-        
+      ![Screenshot (2) - Copy](https://user-images.githubusercontent.com/91968610/138870035-bc53ed57-387b-4ab9-a218-75a1ee112e6e.png)
+     gambar diatas merupakan program python yang udah bisa dijalankan pada VS-Code.
