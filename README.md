@@ -6,4 +6,5 @@
     merupakan fungsi yang digunakan untuk menampilkan objek kelayar(out put).
 3. arti dari ==> print("Hello World")?
     menampilkan kata "Hello World" pada perangkat keluaran (layar) atau ke file teks
-4.  
+4.  menjalankan python pada VS-Code dan CMD?
+        
